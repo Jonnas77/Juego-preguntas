@@ -1,0 +1,5 @@
+{
+  "name": "FlashQuiz AI",
+  "description": "Un juego de preguntas estilo Kahoot de alta velocidad donde puedes conectarte vía PIN. Cuenta con preguntas generadas por IA mediante Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
